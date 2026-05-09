@@ -20,7 +20,7 @@
 2. Drag and drop `_vfileIndexV2.fb` onto the program EXE
    (NOT into a command window!)  
 
-https://www.bilibili.com/video/BV1U4411q7MJ
+Extract Example:https://www.bilibili.com/video/BV1U4411q7MJ
 
 ## Credits
   [Timo654](https://github.com/Timo654) (DecryptBMS code).  
