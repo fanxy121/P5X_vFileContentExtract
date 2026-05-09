@@ -23,11 +23,11 @@
 
 女神异闻录5提取教程
 
-准备好PS3模拟器下可运行P5游戏本体
-第一步,用工具CriPakGUI打开游戏本体下data.cpk文件,创建提取文件夹。
-第二步,解包目录下data.cpk_unpacked\model\character角色类目,GMD文件是各类皮肤(泳装/便服/怪盗服)Event类动画文件夹、需用GFD.Studio软件打开GMD格式文件，然后拖入动画文件点击查看。
-第三步,用建模软件进一步修改编辑渲染。
-提取示例:https://www.bilibili.com/video/BV1U4411q7MJ
+准备好PS3模拟器下可运行P5游戏本体  
+第一步,用工具CriPakGUI打开游戏本体下data.cpk文件,创建提取文件夹。  
+第二步,解包目录下data.cpk_unpacked\model\character角色类目,GMD文件是各类皮肤(泳装/便服/怪盗服)Event类动画文件夹、需用GFD.Studio软件打开GMD格式文件，然后拖入动画文件点击查看。  
+第三步,用建模软件进一步修改编辑渲染。  
+提取示例:https://www.bilibili.com/video/BV1U4411q7MJ  
 
 ## Credits
   [Timo654](https://github.com/Timo654) (DecryptBMS code).  
